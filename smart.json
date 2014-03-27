@@ -6,7 +6,6 @@
   "version": "0.0.1",
   "git": "https://github.com/ajduke/meteor-bootstrap-tagsinput.git",
     "packages": {
-    "bootstrap-3": "",
-    "jquery":""
+    "bootstrap-3": ""
   }
 }
