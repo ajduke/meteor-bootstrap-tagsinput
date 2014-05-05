@@ -10,5 +10,5 @@ Package.on_use(function (api) {
     // adding the required file for package
     api.add_files('lib/bootstrap-tagsinput/dist/bootstrap-tagsinput.min.js', 'client');
     api.add_files('lib/bootstrap-tagsinput/dist/bootstrap-tagsinput.css', 'client');
-    api.add_files('lib/bootstrap-tagsinput/dist/bootstrap-tagsinput-angular.js', 'client');
+   // api.add_files('lib/bootstrap-tagsinput/dist/bootstrap-tagsinput-angular.js', 'client');
 });
