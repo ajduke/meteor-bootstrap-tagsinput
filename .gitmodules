@@ -1,3 +1,3 @@
 [submodule "lib/bootstrap-tagsinput"]
 	path = lib/bootstrap-tagsinput
-	url = git@github.com:TimSchlechter/bootstrap-tagsinput.git
+	url = https://github.com/TimSchlechter/bootstrap-tagsinput.git
