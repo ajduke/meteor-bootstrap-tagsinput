@@ -3,7 +3,7 @@
   "description": "Meteor package for jQuery Tags Input plugin",
   "homepage": " https://github.com/ajduke/meteor-bootstrap-tagsinput.git",
   "author": "Abhijeet Sutar <ajduke@about.me>",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "git": "https://github.com/ajduke/meteor-bootstrap-tagsinput.git",
     "packages": {
     "bootstrap-3": ""
