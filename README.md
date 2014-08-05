@@ -21,4 +21,4 @@ For more usage, please consult documentation on following links-
 
 
 - [Official Repo](https://github.com/timschlechter/bootstrap-tagsinput)
-- [Demo Site](http://timschlechter.github.io/bootstrap-tagsinput/examples/bootstrap3/)
+- [Demo Site](http://timschlechter.github.io/bootstrap-tagsinput/examples/)
