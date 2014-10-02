@@ -1,7 +1,7 @@
 Package.describe({
     name: 'ajduke:bootstrap-tagsinput',
     summary: 'jQuery plugin providing a Twitter Bootstrap user interface for managing tags, repackaged for Meteor',
-    version: '0.0.4',
+    version: '0.4.0',
     git: "https://github.com/ajduke/meteor-bootstrap-tagsinput.git"
 });
 
