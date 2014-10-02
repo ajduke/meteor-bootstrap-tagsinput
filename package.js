@@ -7,7 +7,7 @@ Package.describe({
 
 Package.on_use(function (api) {
     // dependecies required by package
-    api.use('jquery', 'client'); 
+    api.use('jquery@1.0.0', 'client');
     api.use('ian:bootstrap-3@1.0.3', 'client');
     
     // adding the required file for package
