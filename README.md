@@ -20,7 +20,7 @@
 
 **Using 0.5.x**
 
-`meteor add ajduke:bootstrap-tagsinput`
+`meteor add ajduke:bootstrap-tagsinput@=0.5.0`
 
 `<add your favorite boostrap packge from Atmosphere> or <ignore this if you already have bootstrap package >`
 For.e.g.
