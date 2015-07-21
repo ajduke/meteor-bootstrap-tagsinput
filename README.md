@@ -38,3 +38,5 @@ For more usage, please consult documentation on following links-
 
 - [Official Repo](https://github.com/timschlechter/bootstrap-tagsinput)
 - [Demo Site](http://timschlechter.github.io/bootstrap-tagsinput/examples/)
+
+I created the Meteor Project repo, which contains exmaple usage on using this package in Meteor- https://github.com/ajduke/tagsinput-meteor-demo
